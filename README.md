@@ -1,8 +1,7 @@
 # CheckBCV
 A reference price calculator for international currencies to bolivars, transform USD, EUR and COP
 
-![CheckBCV](https://user-images.githubusercontent.com/59421368/145105917-b11270cc-a94e-4ad7-a1cc-8fe13bb6d9f0.png)
-
-The File: Updating Link...
+![CheckBCV(V1 0)](https://user-images.githubusercontent.com/59421368/160957388-d5a07cbc-ef08-4e68-bb00-8380d9c96c0b.png)
 
 If you want more information contact with me :D
+Anyway the code is in the .py file
